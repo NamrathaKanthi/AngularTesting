@@ -1,0 +1,24 @@
+{
+  "name": "angularjs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dataservice.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-mocks": "^1.6.2",
+    "karma": "^1.6.0",
+    "karma-jasmine": "^1.1.0",
+    "mocks": "^0.0.15",
+    "jasmine-core": "^2.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
